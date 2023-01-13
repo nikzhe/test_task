@@ -16,3 +16,10 @@ export default {
     components: { Navbar, ProjectList },
 }
 </script>
+<style>
+
+body {
+    height: 100vh;
+    background: #dfdfdf57;
+}
+</style>
