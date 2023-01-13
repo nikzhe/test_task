@@ -38,6 +38,7 @@ export default {
     -webkit-box-shadow: 0px 0.5px 8px 0px rgba(0,0,0,0.72);
     -moz-box-shadow: 0px 0.5px 8px 0px rgba(0,0,0,0.72);
     box-shadow: 0px 0.5px 8px 0px rgba(0,0,0,0.72);
+    background: #fff;
 }
 
 .home-icon-block {    
