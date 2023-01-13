@@ -80,10 +80,14 @@ export default {
 .project-container {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    margin-top: 50px;
     align-items: center;
     cursor: pointer;
+    background: #fff;
+    max-width: 500px;
+    padding: 20px;
+    justify-content: space-between;
+    margin: 50px auto 0;
+    border-radius: 9px;
 }
 .project-thumbnail {
     height: 80px;
